@@ -2,9 +2,9 @@
 
 *The Classless CSS framework with a clean, soft and modern design.*
 
-<code>
-npm <span style="color: #00ffe5">install</span> chimeracss
-</code>
+```bash
+npm install chimeracss
+```
 
 ## Why?
 
